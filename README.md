@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Engineering Manager/ Fullstack Software Engineer from South Afica
+I am a Engineering Manager/ Fullstack Software Engineer from South Afica ![<img src="https://github.com/EaziLuizi/EaziLuizi/blob/024b62d69f10c82dd15479243e173c7a2b8b9719/Flag-Portugal.png"]
 
 ## Connect with me 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/marco-luizinho-382a1669)
