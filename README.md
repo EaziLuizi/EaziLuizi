@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Engineering Manager/ Ex Full stack Software Engineer from JHB, South Afica
+I am an Engineering Manager/ Ex Full-stack Software Engineer from JHB, South Africa
 
 ## Connect with me 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/marco-luizinho-382a1669)
